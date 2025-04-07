@@ -28,7 +28,9 @@ venv/
 
 # Ignore generated outputs
 results/
+!results/.gitkeep
 
 # Ignore large datasets but keep structure
 data/processed/
 !data/processed/.gitkeep
+
