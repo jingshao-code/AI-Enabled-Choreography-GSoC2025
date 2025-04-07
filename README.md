@@ -85,7 +85,7 @@ Since dance data doesn't come with readily available text labels, I adopted a se
 2. Calculate sequence similarity using DTW algorithm
 3. Automatically generate labels for the remaining data based on similarity
 
-![Labeling Process](assets/labeling_process.png)
+![Labeling Process](/assets/semi-supervised.png)
 *Semi-supervised labeling process flowchart*
 
 ![Dance Clusters](assets/dance_clusters.png)
