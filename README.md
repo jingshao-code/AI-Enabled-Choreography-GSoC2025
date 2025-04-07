@@ -2,7 +2,7 @@
 
 ## Project Introduction
 
-This project is an application test for HumanAI GSoC 2025, exploring the intersection of artificial intelligence and dance art. The project contains two core components:
+Hi, I'm Jing Shao. This project is an application test for HumanAI GSoC 2025, exploring the intersection of artificial intelligence and dance art. The project contains two core components:
 
 1. **3D Visualization of Dance Motion Capture Data**: Converting motion capture data in `.npy` format into intuitive three-dimensional animations that display the dancer's movement sequences.
 2. **Multimodal Contrastive Learning Between Dance and Text**: Training a model that maps dance movement segments and text descriptions to the same embedding space, enabling bidirectional conversion between text ↔ dance.
